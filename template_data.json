@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Soft Pastel Portfolio",
+    "description": "Elegant pastel tones with spacious layout and serif typography.",
+    "tags": ["pastel", "minimalist", "serif"],
+    "img": "https://nawazhaq.github.io/template-tag-poc/images/IMG_8527.jpeg"
+  },
+  {
+    "title": "Bold Maximal Poster",
+    "description": "Loud colors, dense graphics, layered patterns.",
+    "tags": ["colorful", "experimental", "clashing"],
+    "img": "https://nawazhaq.github.io/template-tag-poc/images/IMG_8528.jpeg"
+  },
+  {
+    "title": "Brutalist Business Card",
+    "description": "Chunky fonts, monochrome palette, utilitarian grid.",
+    "tags": ["bold", "typography", "monochrome"],
+    "img": "https://nawazhaq.github.io/template-tag-poc/images/IMG_8529.jpeg"
+  },
+   {
+    "title": "Business Card",
+    "description": "Chunky fonts, monochrome palette, utilitarian grid.",
+    "tags": ["bold", "typography", "monochrome"],
+    "img": "https://nawazhaq.github.io/template-tag-poc/images/IMG_8530.jpeg"
+  }
+]
